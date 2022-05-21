@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sanyam2003
-- 👀 I’m interested in ... codinng
-- 🌱 I’m currently learning ... web development
+- 👋 Hi, I’m Sanyam
+- 👀 I’m interested in C++ and Web Development related codinng
+- 🌱 I’m currently learning C++ and Front End.
 - 💞️ I’m looking to collaborate on ... many different type of people
 - 📫 How to reach me ... sanyam29032@gmail.com
 
