@@ -43,3 +43,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyam2003&show_icons=true&locale=en&layout=compact" alt="sanyam2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyam2003&show_icons=true&locale=en" alt="sanyam2003" /></p>
+
+<a href="https://app.daily.dev/sanyampandita"><img src="https://api.daily.dev/devcards/v2/L4BnkAoOkFU33xu6IBhTn.png?type=wide&r=82f" width="652" alt="Sanyam Pandita's Dev Card"/></a>
