@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **panditasanyam@gmail.com**
 
-- 📄 Know about my experiences-> {https://shorturl.at/DIjcd}
+- 📄 Know about my experiences-> { https://shorturl.at/DIjcd }
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
