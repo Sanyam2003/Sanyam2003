@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **panditasanyam@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1aT4DIfPxZu7Ajr4MpMBwsM6rJrHUl2dynIaYGdxdn6c/edit?usp=sharing](https://docs.google.com/document/d/1aT4DIfPxZu7Ajr4MpMBwsM6rJrHUl2dynIaYGdxdn6c/edit?usp=sharing)
+- 📄 Know about my experiences-> {https://shorturl.at/DIjcd}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
