@@ -9,23 +9,13 @@
 
 <img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
-- 🔭 I’m currently working on **an ATS Resume Checker Model**
+- 🤝 I’m interested in **Machine Learning, Deep Learning, Artificial Intelligence and Java Backend**
 
-- 🌱 I’m currently learning **DSA**
-
-- 👯 I’m looking to collaborate on **Full Stack Development**
-
-- 🤝 I’m looking for help with **ML,DL,AI and Full Stack Dev**
-
-- 👨‍💻 All of my projects are available at [https://sanyam2003.github.io/portfolio/](https://sanyam2003.github.io/portfolio/)
-
-- 💬 Ask me about **C++|Python|ML|DL|HTML|CSS|JS**
+- 💬 Ask me about **Java|C++|Python|ML|AI**
 
 - 📫 How to reach me **panditasanyam@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1aT4DIfPxZu7Ajr4MpMBwsM6rJrHUl2dynIaYGdxdn6c/edit?usp=sharing](https://docs.google.com/document/d/1aT4DIfPxZu7Ajr4MpMBwsM6rJrHUl2dynIaYGdxdn6c/edit?usp=sharing)
-
-- ⚡ Fun fact **I have been trying to code for the past 3 years but still, I find myself a newbie in most areas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
