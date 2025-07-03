@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sanyam Pandita</h1>
-<h3 align="center">A passionate developer from India. Software Engineer || Experienced in C++ | Python | HTML | CSS | JS | MySQL | Machine Learning | Prompt Engineering | I simplify complex coding challenges | Exp: Intern at DRDO (SAG)</h3>
-
+<h3 align="center">Backend Software Engineering | Machine Learning <br> C++ | Java | Python | HTML | CSS | SQL <br> Prev Exp: Intern at DRDO (SAG)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam2003&label=Profile%20views&color=0e75b6&style=plastic" alt="sanyam2003" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanyam2003" alt="sanyam2003" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sanyampandita" target="blank"><img src="https://img.shields.io/twitter/follow/sanyampandita?logo=twitter&style=for-the-badge" alt="sanyampandita" /></a> </p>
 
 <img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
-- 🤝 I’m interested in **Machine Learning, Deep Learning, Artificial Intelligence and Java Backend**
+- 🤝 I’m interested in **Machine Learning, Deep Learning, Artificial Intelligence, and Backend Engineering**
 
 - 💬 Ask me about **Java|C++|Python|ML|AI**
 
